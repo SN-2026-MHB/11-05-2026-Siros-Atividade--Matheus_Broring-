@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-08T16:26:46.799398+00:00",
+  "updated_at": "2026-07-08T22:01:19.604941+00:00",
   "data_referencia": "2026-07-08",
   "airport_icao": "SBMG",
   "airport_name": "Maringa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBMG",
-    "sg_aerodromo_iata": "MGF",
-    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
+    "sg_aerodromo_icao": "SBRF",
+    "sg_aerodromo_iata": "REC",
+    "descricao": "GUARARAPES - GILBERTO FREYRE - RECIFE - PE - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
