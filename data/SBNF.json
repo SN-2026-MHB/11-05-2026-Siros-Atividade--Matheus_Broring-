@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-13T11:56:17.084009+00:00",
+  "updated_at": "2026-07-13T14:23:45.008529+00:00",
   "data_referencia": "2026-07-13",
   "airport_icao": "SBNF",
   "airport_name": "Navegantes",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCY",
-    "sg_aerodromo_iata": "CGB",
-    "descricao": "MARECHAL RONDON - VÁRZEA GRANDE - MT - BRASIL"
+    "sg_aerodromo_icao": "SBNF",
+    "sg_aerodromo_iata": "NVT",
+    "descricao": "MINISTRO VICTOR KONDER - NAVEGANTES - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
