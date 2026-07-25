@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-25T10:22:48.832766+00:00",
+  "updated_at": "2026-07-25T13:10:46.765717+00:00",
   "data_referencia": "2026-07-25",
   "airport_icao": "SBGL",
   "airport_name": "Rio de Janeiro / Galeao",
   "airport_info": {
-    "sg_aerodromo_icao": "SBRF",
-    "sg_aerodromo_iata": "REC",
-    "descricao": "GUARARAPES - GILBERTO FREYRE - RECIFE - PE - BRASIL"
+    "sg_aerodromo_icao": "SBGL",
+    "sg_aerodromo_iata": "GIG",
+    "descricao": "AEROPORTO INTERNACIONAL DO RIO DE JANEIRO/GALEÃO – ANTONIO CARLOS JOBIM - RIO DE JANEIRO - RJ - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
