@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-10T19:08:01.290019+00:00",
+  "updated_at": "2026-10-11T00:03:28.071288+00:00",
   "data_referencia": "2026-10-10",
   "airport_icao": "SBCX",
   "airport_name": "Caxias do Sul",
   "airport_info": {
-    "sg_aerodromo_icao": "SBEG",
-    "sg_aerodromo_iata": "MAO",
-    "descricao": "EDUARDO GOMES - MANAUS - AM - BRASIL"
+    "sg_aerodromo_icao": "SBCX",
+    "sg_aerodromo_iata": "CXJ",
+    "descricao": "HUGO CANTERGIANI - CAXIAS DO SUL - RS - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
